@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ocofy-test-simple-text2/static/css/main.760fa860.css",
-    "main.js": "/ocofy-test-simple-text2/static/js/main.7cae4c56.js",
-    "static/js/787.3896d277.chunk.js": "/ocofy-test-simple-text2/static/js/787.3896d277.chunk.js",
-    "index.html": "/ocofy-test-simple-text2/index.html",
-    "main.760fa860.css.map": "/ocofy-test-simple-text2/static/css/main.760fa860.css.map",
-    "main.7cae4c56.js.map": "/ocofy-test-simple-text2/static/js/main.7cae4c56.js.map",
-    "787.3896d277.chunk.js.map": "/ocofy-test-simple-text2/static/js/787.3896d277.chunk.js.map"
+    "main.css": "/locofy-test-simple-text2/static/css/main.760fa860.css",
+    "main.js": "/locofy-test-simple-text2/static/js/main.f2354d60.js",
+    "static/js/787.3896d277.chunk.js": "/locofy-test-simple-text2/static/js/787.3896d277.chunk.js",
+    "index.html": "/locofy-test-simple-text2/index.html",
+    "main.760fa860.css.map": "/locofy-test-simple-text2/static/css/main.760fa860.css.map",
+    "main.f2354d60.js.map": "/locofy-test-simple-text2/static/js/main.f2354d60.js.map",
+    "787.3896d277.chunk.js.map": "/locofy-test-simple-text2/static/js/787.3896d277.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.760fa860.css",
-    "static/js/main.7cae4c56.js"
+    "static/js/main.f2354d60.js"
   ]
 }
